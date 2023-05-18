@@ -1,0 +1,9 @@
+* thread-pool
+
+A simple Common Lisp thread pool.
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/kiuma/thread-pool.git |
+| commit  | 3f180e9                                      |
+| systems | thread-pool                                  |
+|---------+----------------------------------------------|
